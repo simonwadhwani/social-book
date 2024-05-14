@@ -10,6 +10,7 @@ function App() {
       <RouterProvider router={routes} />
     </Provider>
   );
+  
 }
 
 export default App;
